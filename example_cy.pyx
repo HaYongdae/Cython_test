@@ -4,4 +4,3 @@ cpdef int test(int x):
 	for i in range(x):
 		y += 1
 	return y
-

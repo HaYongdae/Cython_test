@@ -974,7 +974,6 @@ static int __pyx_f_10example_cy_test(int __pyx_v_x, CYTHON_UNUSED int __pyx_skip
  * 	for i in range(x):
  * 		y += 1             # <<<<<<<<<<<<<<
  * 	return y
- * 
  */
     __pyx_v_y = (__pyx_v_y + 1);
   }
@@ -983,7 +982,6 @@ static int __pyx_f_10example_cy_test(int __pyx_v_x, CYTHON_UNUSED int __pyx_skip
  * 	for i in range(x):
  * 		y += 1
  * 	return y             # <<<<<<<<<<<<<<
- * 
  */
   __pyx_r = __pyx_v_y;
   goto __pyx_L0;
